@@ -2,6 +2,7 @@
 
 - 🔭 Actualmente estoy trabajando como tutor de Desarrollo Web y realizando proyectos frontend freelance.
 - 🌱 Soy Diseñador Industrial, pero en paralelo comence con este viaje de ida en el mundo del desarrollo.
-- ✔  HTML5, CSS3, Bootstrap, SASS, JavaScript, ReactJs, Firebase.
+- ✅  HTML5, CSS3, JavaScript y ReactJs.
+- ✔   Firebase, Axios, Bootstrap, Sass
 - 📫 axelmullins94@gmail.com
-- 👉 https://www.linkedin.com/in/axel-mullins/
+- 👉 https://www.linkedin.com/in/axel-mullins/ 
