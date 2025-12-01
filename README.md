@@ -1,7 +1,7 @@
 ### ¡Hola, soy Axel! 👋
 
 - 💻  Fullstack MERN Developer | WordPress | ✏ Diseñador Industrial
-- ✅  HTML5, CSS3, JavaScript, React Js, Node Js, Express, MongoDB
+- ✅  Next.js, React Js, Astro, Typescript, Node Js, Express, HTML5, CSS3, JavaScript, MongoDB
 - ✔   Firebase, Axios, Bootstrap, Sass
 - 📫 axelmullins94@gmail.com
 - 👉 https://www.linkedin.com/in/axel-mullins/ 
